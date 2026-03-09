@@ -23,8 +23,8 @@ Baked Lighting (Deffered Rendering) :
 
 Raymarched Parallax effect :
 
-<img width="450" height="518" alt="Parallax" src="https://github.com/user-attachments/assets/b57d39cb-4914-4d66-b824-6ce64a4ac3d8" />
-<img width="450" height="518" alt="Parallax-Detail" src="https://github.com/user-attachments/assets/d8864934-b275-427a-b9ea-ca36c5c97a8d" />
+<img width="600" height="518" alt="Parallax" src="https://github.com/user-attachments/assets/b57d39cb-4914-4d66-b824-6ce64a4ac3d8" />
+<img width="600" height="518" alt="Parallax-Detail" src="https://github.com/user-attachments/assets/d8864934-b275-427a-b9ea-ca36c5c97a8d" />
 
 Custom UI :
 
