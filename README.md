@@ -26,6 +26,11 @@ Raymarched Parallax effect :
 <img width="500" height="542" alt="Parallax" src="https://github.com/user-attachments/assets/b57d39cb-4914-4d66-b824-6ce64a4ac3d8" />
 <img width="500" height="542" alt="Parallax-Detail" src="https://github.com/user-attachments/assets/d8864934-b275-427a-b9ea-ca36c5c97a8d" />
 
+Deffered Fog :
+
+<img width="600" height="586" alt="DefferedFog" src="https://github.com/user-attachments/assets/ed4cc631-a7dc-40bf-af8b-a9321116cc3d" />
+
+
 Custom UI :
 
 <img width="350" height="1086" alt="ShaderUI" src="https://github.com/user-attachments/assets/92f4b91c-9e86-419d-94c1-81ab460087ac" />
