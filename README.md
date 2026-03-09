@@ -15,7 +15,7 @@ Features :
 Emissive shaders :
 
 <img width="450" height="542" alt="Circuitry" src="https://github.com/user-attachments/assets/0f7f894c-3b2d-4a24-871f-72202e168854" />
-<img width="450" height="538" alt="Lava" src="https://github.com/user-attachments/assets/06f58f4d-7d9d-484f-9ec3-d72ccac01343" />
+<img width="450" height="542" alt="Lava" src="https://github.com/user-attachments/assets/06f58f4d-7d9d-484f-9ec3-d72ccac01343" />
 
 Baked Lighting (Deffered Rendering) :
 
@@ -23,8 +23,8 @@ Baked Lighting (Deffered Rendering) :
 
 Raymarched Parallax effect :
 
-<img width="600" height="518" alt="Parallax" src="https://github.com/user-attachments/assets/b57d39cb-4914-4d66-b824-6ce64a4ac3d8" />
-<img width="600" height="476" alt="Parallax-Detail" src="https://github.com/user-attachments/assets/d8864934-b275-427a-b9ea-ca36c5c97a8d" />
+<img width="450" height="518" alt="Parallax" src="https://github.com/user-attachments/assets/b57d39cb-4914-4d66-b824-6ce64a4ac3d8" />
+<img width="450" height="518" alt="Parallax-Detail" src="https://github.com/user-attachments/assets/d8864934-b275-427a-b9ea-ca36c5c97a8d" />
 
 Custom UI :
 
